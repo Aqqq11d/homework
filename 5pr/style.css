@@ -46,6 +46,7 @@ height: 40px;
 border-radius: 10px;
 border: 2px solid #F0F0F0;
 display: block;
+  cursor: pointer;
 }
 .cb {
     display: inline-block;
